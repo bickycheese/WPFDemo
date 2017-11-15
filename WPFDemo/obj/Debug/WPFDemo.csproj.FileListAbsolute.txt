@@ -1,0 +1,1 @@
+C:\Source\Github\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
