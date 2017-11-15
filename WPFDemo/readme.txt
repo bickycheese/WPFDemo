@@ -1,1 +1,1 @@
-https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
+GIT CLONE: https://github.com/stannynuytkens/WPFDemo
