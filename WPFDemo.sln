@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo", "WPFDemo\WPFDemo.csproj", "{AD5715CE-B145-4AB4-BB02-1F51BBBCEDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo.Core", "WPFDemo.Core\WPFDemo.Core.csproj", "{91A558EA-7945-4DD4-859E-B135AC2BA26D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D0B01FDD-6B87-4C75-837B-EDBBF85D6DDF}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5715CE-B145-4AB4-BB02-1F51BBBCEDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5715CE-B145-4AB4-BB02-1F51BBBCEDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5715CE-B145-4AB4-BB02-1F51BBBCEDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5715CE-B145-4AB4-BB02-1F51BBBCEDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A558EA-7945-4DD4-859E-B135AC2BA26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A558EA-7945-4DD4-859E-B135AC2BA26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A558EA-7945-4DD4-859E-B135AC2BA26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A558EA-7945-4DD4-859E-B135AC2BA26D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
